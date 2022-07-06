@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/PL/GUI/Frm_CheckIn.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/KhachHangServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLAllDichVuServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLDichVuServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/PL/GUI/Frm_Tang.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Services/ChiTietThuePhongServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/GiaTriKhacServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/HinhThucThanhToanServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Utils/XImage.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLKhachHangServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Utils/XValidated.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/ChiTietDichVuServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLAllNhanVienServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Services/QLAllDichVuServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/PL/GUI/Frm_QuenMatKhau.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IChiTietThuePhongServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLDichVuPhongServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Services/QLAllNhanVienServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/IServices/IQuanLyAllDichVuServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Utils/Auth.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Utils/XDate.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Model/DichVu_Phong.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Entities/HoaDon.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/QuyenServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/ThongTinThuePhongServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/NhanVienServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/DAL/Services/GiaoCaServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLPhongKhachSanServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLCheckInServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Model/QuanLyPhongKhachSan.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Model/QuanLyAllNhanVien.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Services/QLCheckInServices.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/Utils/MsgBox.java</file>
+            <file>file:/D:/UpGit/DA1-FPOLY/QuanLyKhachSan/src/BUS/IServices/IQLGiaoCaServices.java</file>
+        </group>
+    </open-files>
+</project-private>
